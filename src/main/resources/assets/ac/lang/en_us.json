@@ -1,0 +1,13 @@
+{
+  "chat.ac.gg": "Reward Summary",
+  "chat.ac.wc": "I'm holding \"{key}\" to walk.",
+  "chat.ac.wc2": "I'm holding \"{key}\" to jump.",
+  "chat.ac.cc": "I'm using the mouse {l} to click.",
+  "feature.ac.ag": "AutoGG",
+  "feature.ac.wc": "WalkNotice",
+  "feature.ac.cc": "ClickNotice",
+  "feature.ac.wcc": "WhileChat",
+  "feature.ac.rr": "ReRead",
+  "feature.ac.cm": "ChatSuffix",
+  "feature.ac.fc": "FancyChat"
+}

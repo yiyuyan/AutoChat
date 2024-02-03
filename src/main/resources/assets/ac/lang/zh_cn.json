@@ -1,0 +1,12 @@
+{
+  "chat.ac.gg": "奖励总览",
+  "chat.ac.wc": "我正在按住 {key} 进行行走。",
+  "chat.ac.wc2": "我正在按住 {key} 进行跳跃。",
+  "chat.ac.cc": "我正在使用鼠标{l}进行点击。",
+  "feature.ac.wc": "行走通知",
+  "feature.ac.cc": "点击通知",
+  "feature.ac.wcc": "循环消息",
+  "feature.ac.rr": "复读,",
+  "feature.ac.cm": "聊天后缀",
+  "feature.ac.fc": "花式聊天"
+}
